@@ -15,7 +15,7 @@
           <h6><i class="fa fa-home"></i>&nbsp; Corporate Office</h6>
           <p>Dubia Creek, AI Seef District</p><br>
           <h6><i class="fa fa-envelope"></i>&nbsp; Support Mail</h6>
-           <a href="mailto:worldglobalexpressx6@yahoo.com">worldglobalexpressx6@yahoo.com</a>
+           <p><a href="mailto:worldglobalexpressx6@yahoo.com" class="">worldglobalexpressx6@yahoo.com</a></p><br>
         </div>
         <div class="col-md-5">
           <form @submit.prevent="sendMessage()">
@@ -163,5 +163,6 @@ export default {
 }
 a{
   color: #fff;
+  margin-bottom: 2rem !important;
 }
 </style>

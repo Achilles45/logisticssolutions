@@ -100,6 +100,9 @@ export default {
       width: 100% !important;
       margin-bottom: 1rem;
     }
+    .form__btn{
+      padding: 1.2rem !important;
+    }
   }
   }
  }

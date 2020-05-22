@@ -3,7 +3,7 @@
       <div class="container">
           <div class="row">
               <div class="col-md-4">
-                  <p><i class="fa fa-envelope"></i>&nbsp; <a href="mailto:Upscourierservicexx@gmail.com"></a>Upscourierservicexx@gmail.com</p>
+                  <p><i class="fa fa-envelope"></i>&nbsp; <a href="mailto:worldglobalexpressx6@yahoo.com"></a>worldglobalexpressx6@yahoo.com</p>
               </div>
               <div class="col-md-4">
                   <p><i class="fa fa-clock"></i>&nbsp; Working Hours: 24/7</p>
