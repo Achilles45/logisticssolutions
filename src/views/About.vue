@@ -11,7 +11,7 @@
     <div class="container">
       <div class="row content">
         <div class="col-md-4">
-          <img src="../assets/images/worker.jpg" class="img-fluid pb-5" alt="" />
+          <img src="../assets/images/banner2.jpeg" class="img-fluid pb-5" alt="" />
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-7">
@@ -130,7 +130,7 @@ export default {
   background: #fff;
   .track__heading {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url('../assets/images/track1.jpg');
+      url('../assets/images/track2.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
