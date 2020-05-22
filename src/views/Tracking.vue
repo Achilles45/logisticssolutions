@@ -143,14 +143,14 @@ export default {
 
 <style lang="scss" scoped>
 .track {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../assets/images/background.jpg");
+  background: linear-gradient(rgba(4, 9, 30, 0.8), rgba(4, 9, 30, 0.8)),
+    url("../assets/images/map.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   .track__heading {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("../assets/images/map.jpeg");
+    background: linear-gradient(rgba(4, 9, 30, 0.8), rgba(4, 9, 30, 0.9)),
+      url("../assets/images/map.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
